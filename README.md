@@ -57,9 +57,11 @@
 
 
 <!-- Portfolio -->
-<!--
+
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
+- [AI ChatBot](https://github.com/gaab-sec/AI-ChatBot)
+
+<!--
 - [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
 - [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
