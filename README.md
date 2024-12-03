@@ -37,7 +37,7 @@
 <!-- Skills: Other Knowledge -->
   <div style="flex-basis: 48%;">
     <h3>⚙️  Other Knowledges & Learning: </h3>
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img align="center" alt="SQL" src="https://img.shields.io/badge/Mysql-E95420?style=for-the-badge&logo=Mysql&logoColor=white">
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -49,12 +49,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oldrado/)
 
 <br>
-<h2>📈 Github Stats:</h2>
-
-<!-- GithubStats -->
-![Gaab-sec GitHub stats](https://github-readme-stats.vercel.app/api?username=gaab-sec&show_icons=true&theme=gotham) <br>
-![gaab-sec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaab-sec&theme=gotham)
-
 
 <!-- Portfolio -->
 
@@ -67,6 +61,16 @@
 - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
 - [Client Registry System](https://github.com/VariableBee/Cartorio)
 -->
+
+<br>
+
+<h2>📈 Github Stats:</h2>
+
+<!-- GithubStats -->
+![Gaab-sec GitHub stats](https://github-readme-stats.vercel.app/api?username=gaab-sec&show_icons=true&theme=gotham) <br>
+![gaab-sec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaab-sec&theme=gotham)
+
+
 <!-- GIF -->
 <!-- 
 <p align="left">
