@@ -54,6 +54,7 @@
 
 ## Portfolio:
 - [AI ChatBot](https://github.com/gaab-sec/AI-ChatBot)
+- [CRUD-BookTrack](https://github.com/gaab-sec/Projeto_BookTrack)
 
 <!--
 - [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
