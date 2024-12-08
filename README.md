@@ -68,7 +68,7 @@
 <h2>📈 Github Stats:</h2>
 
 <!-- GithubStats -->
-![gaab-sec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaab-sec&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![gaab-sec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaab-sec&theme=gotham&show_icons=true&hide_border=true&layout=compact) <br>
 ![gaab-sec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaab-sec&theme=gotham&hide_border=true)
 
 
