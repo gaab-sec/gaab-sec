@@ -61,13 +61,11 @@
 - [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
 - [Client Registry System](https://github.com/VariableBee/Cartorio)
--->
 
 <br>
 
 <h2>📈 Github Stats:</h2>
 
-<!-- GithubStats -->
 ![gaab-sec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaab-sec&theme=gotham&show_icons=true&hide_border=true&layout=compact) <br>
 
 
